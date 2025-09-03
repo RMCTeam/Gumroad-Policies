@@ -58,8 +58,8 @@ Welcome to our Gumroad store! Please read the following policies carefully befor
 
 If you have any questions about our policies, please contact us at:
 
-- Email: [your-email@example.com]  
-- Gumroad Message: [Link to your Gumroad profile]
+- Discord: rmc_team (preferred for quick responses)
+- Email: mahmuttuma9@gmail.com
 
 ---
 
@@ -67,5 +67,5 @@ Thank you for supporting our work! Your trust and satisfaction are important to 
 
 ---
 
-*Last updated: [Insert Date]*
+*Last updated:* **September 3, 2025**
 

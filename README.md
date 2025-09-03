@@ -58,6 +58,7 @@ Welcome to our Gumroad store! Please read the following policies carefully befor
 
 If you have any questions about our policies, please contact us at:
 
+- Discord Server: **(Developer Hub)[https://discord.gg/ErRCVQRcXT]**
 - Discord: rmc_team (preferred for quick responses)
 - Email: mahmuttuma9@gmail.com
 
